@@ -7,7 +7,7 @@ const projects = [
     stack: "React | Node.js | Express | MongoDB",
     description:
       "A full-stack social media application with authentication, tweet posting, likes, and a clean responsive interface inspired by Twitter/X.",
-    link: "https://twitter-clone-1-933p.onrender.com/",
+    link: "https://twitter-clone-bbi4.onrender.com",
   },
   {
     title: "Chat App",
@@ -15,7 +15,7 @@ const projects = [
     stack: "React | Socket.io | Node.js | MongoDB",
     description:
       "A real-time messaging platform with JWT authentication, secure communication, and a modern UI designed for fast and smooth conversations.",
-    link: "https://chat-app-67u0.onrender.com/",
+    link: "https://chat-app-5zuc.onrender.com",
   },
   {
     title: "E-Commerce App",
@@ -23,7 +23,7 @@ const projects = [
     stack: "React | Express | MongoDB | Razorpay",
     description:
       "A modern e-commerce application featuring secure login, cart management, online payments, coupon support, and a seamless shopping experience.",
-    link: "https://e-commers-1-7o5j.onrender.com/",
+    link: "https://e-commers-6lox.onrender.com",
   },
   {
     title: "Task-Manager",
