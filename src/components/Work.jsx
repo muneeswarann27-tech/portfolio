@@ -25,14 +25,14 @@ const projects = [
       "A modern e-commerce application featuring secure login, cart management, online payments, coupon support, and a seamless shopping experience.",
     link: "https://e-commers-6lox.onrender.com",
   },
-  {
+ /*  {
     title: "Task-Manager",
     image: "/assets/taskmanager.png",
     stack: "React | Express | MongoDB | TypeScript",
     description:
       "Built a MERN + TypeScript based task management application to efficiently create, update, and track tasks with a clean and responsive UI.",
     link: "https://taskmanager27052006.netlify.app/",
-  },
+  }, */
 ];
 
 export default function Work() {
